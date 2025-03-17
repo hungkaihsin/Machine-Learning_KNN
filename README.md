@@ -1,12 +1,13 @@
-# Machine-Learning_KNN
+# Machine Learning - KNN
 
 ## Introduction
-- This is a simple example of practicing how to use K-Nearest Neighbors in Python.
-- Ths ```AssignmentKNN1.pdf``` is the requirement for this practice.
-- For more explanation, please visit [this page](https://hackmd.io/DACgUMXBQ6KWoEWb-ZtJQQ?view#Step-2-Compute-the-Distance)
+- This is a simple example of practicing the use of the K-Nearest Neighbors (KNN) algorithm in Python.
+- The file **`AssignmentKNN1.pdf`** contains the requirements for this practice.
+- For a more detailed explanation, please visit [this page](https://hackmd.io/@hungkaihsin/ByiBK0Mtkg).
 
-Special thanks to Professor Anahita and the MS Data Science program for providing a great learning environment in the field of Machine Learning.
+Special thanks to Professor Anahita and the MS Data Science program for providing an excellent learning environment in the field of Machine Learning.
 
-## Contact me
+## Contact Me
 - [Portfolio](https://hungkaihsin.github.io)
-- [Linkedin](https://www.linkedin.com/in/kai-hsin-hung/)
+- [LinkedIn](https://www.linkedin.com/in/kai-hsin-hung/)
+- [My Blog](https://hackmd.io/FnS8p0EpTxKxyf3nzP2kEw?both)
