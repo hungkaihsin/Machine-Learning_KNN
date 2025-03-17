@@ -10,4 +10,4 @@ Special thanks to Professor Anahita and the MS Data Science program for providin
 ## Contact Me
 - [Portfolio](https://hungkaihsin.github.io)
 - [LinkedIn](https://www.linkedin.com/in/kai-hsin-hung/)
-- [My Blog](https://hackmd.io/FnS8p0EpTxKxyf3nzP2kEw?both)
+- [My Blog](https://hackmd.io/@hungkaihsin)
